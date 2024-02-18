@@ -9,5 +9,5 @@ cin>>a>>b;
 temp=a;
 a=b;
 b=temp;
-cout<<"NUmbers are"<<a<<b;
+cout<<"Numbers are"<<a<<b;
 }
